@@ -1,0 +1,20 @@
+{
+  "total_coins": 15,
+  "average_price_usd": 5452.99,
+  "average_24h_change_pct": 6.84,
+  "top_gainer": {
+    "name": "Helium",
+    "symbol": "HNT",
+    "price_change_pct_24h": 70.98
+  },
+  "largest_market_cap": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "market_cap_usd": 1567532935144.0
+  },
+  "highest_volume": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "volume_usd": 24342973649.0
+  }
+}
